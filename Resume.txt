@@ -1,5 +1,5 @@
-Name: Jigyasa
-Department: MAE
+Name: Jigyasa Nagpal
+Department: Mechanical & Automation
 Programming Languages: Dart,C++,Java,Python,Html,Css,JavaScripts
 HackathonsParticipated:_6
 HackathonsWon_0
