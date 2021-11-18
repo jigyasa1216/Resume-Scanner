@@ -1,5 +1,5 @@
 # Resume-Scanner
-This project is made for MLH NIT Raipur Hackathon October 2021. It is made with Python and NLP.
+This project is made for MLH NIT Raipur Hackathon October 2021. It is purely made with Python and NLP.
 # WHAT IS RESUME SCANNER? 
 
 **The main objective of this Resume Scanner is to analyse the Resume of the student and to compare it with the company's requirments**
